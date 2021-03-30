@@ -4,4 +4,7 @@ public class C {
 	public void masterPrint() {
 		
 	}
+	public void animalPrint() {
+		
+	}
 }
